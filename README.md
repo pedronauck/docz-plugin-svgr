@@ -1,4 +1,6 @@
-# docz-plugin-svgr
+# docz-plugin-svgr [DEPRECATED]
+
+> ⚠️ &nbsp; This is plugin is deprecated. Now svgr loader support is built-in on docz-core. ️
 
 This plugin allow you to use [svgr](https://github.com/smooth-code/svgr/tree/master/packages/webpack) as loader for svg images together with default `file-loader`
 
